@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:white) ;
+}
+
+header {
+    background-color:rgb(109, 107, 107);
+    font-size: 2em;
+    text-shadow: 1px 1px 1px black;
+    border: 4px solid black;
+}
+.heading{
+    width: 100%;
+   
+}
+
+
+.section
+{
+    background-color:rgb(109, 107, 107);
+    text-align: center;
+    border :2.5px solid black ;
+    height: 400px;
+    margin:10px 5px 5px 10px;
+
+}
+.row{
+    margin: 2px;
+}
+
+.heading > p{
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+.section p{
+    color: white;
+    font-size: large;
+}
