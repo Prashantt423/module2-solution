@@ -23,13 +23,11 @@ header {
     background-color:rgb(109, 107, 107);
     text-align: center;
     border :2.5px solid black ;
-    height: 1000px;
+    height: 2000px;
     margin:10px 5px 5px 10px;
 
 }
-.row{
-    margin: 2px;
-}
+
 
 
 
@@ -39,8 +37,14 @@ header {
 }
 
 .nav-item{
-    width: 100%;
+
     border: 2px solid black;
     background-color: darkkhaki;
     text-align: center;
+}
+.navbar{
+    padding: 0px;
+}
+.navbar-brand{
+    padding-left: 0.5em;
 }
